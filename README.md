@@ -20,3 +20,7 @@ Datasets are organized by in the __Data__ subfolder by __Data Format > Dataset P
             * Description: "The 20 Newsgroups data set is a collection of approximately 20,000 newsgroup documents, partitioned (nearly) evenly across 20 different newsgroups. To the best of my knowledge, it was originally collected by Ken Lang, probably for his Newsweeder."
             * Source: [http://qwone.com/~jason/20Newsgroups/](http://qwone.com/~jason/20Newsgroups/)
             * Author: Ken Lang
+        + __econtalk-show-notes__
+            * Description: Econtalk podcast show notes and transcripts in Markdown format. Includes all episodes through May 11, 2015.
+            * Source: http://www.econtalk.org
+            * Author: Tim Hopper
